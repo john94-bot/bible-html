@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="ml">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>മലയാളം ബൈബിൾ</title>
+<style>
+    body {
+        font-family: 'Noto Sans Malayalam', sans-serif;
+        background: linear-gradient(to bottom, #d0e8ff, #ffffff);
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+    h1 {
+        color: #004d80;
+        padding: 10px;
+    }
+    select {
+        padding: 8px;
+        margin: 10px;
+        font-size: 16px;
+        border-radius: 8px;
+        border: 1px solid #ccc;
+    }
+    #verses {
+        max-width: 800px;
+        margin: auto;
+        text-align: left;
+        padding: 15px;
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .verse {
+        padding: 5px 0;
+        border-bottom: 1px solid #eee;
+    }
+    .verse span {
+        font-weight: bold;
+        color: #004d80;
+        margin-right: 5px;
+    }
+</style>
+</head>
+<body>
+
+<h1>📖 മലയാളം ബൈബിൾ</h1>
+
+<div>
+    <label for="bookSelect">പുസ്തകം തിരഞ്ഞെടുക്കുക</label><br>
+    <select id="bookSelect"></select>
+</div>
+<div>
+    <label for="chapterSelect">അധ്യായം തിരഞ്ഞെടുക്കുക</label><br>
+    <select id="chapterSelect"></select>
+</div>
+
+<div id="verses"></div>
+
+<script>
+    const malayalamBookNames = [
+        "ഉല്പത്തി", "പുറപ്പാട്", "ലേവ്യപുസ്തകം", "സംഖ്യാപുസ്തകം", "ആവർത്തനം", "യോശുവ", "ന്യായാധിപന്മാർ", "റൂത്ത്",
+        "1 ശമൂവേൽ", "2 ശമൂവേൽ", "1 രാജാക്കന്മാർ", "2 രാജാക്കന്മാർ", "1 ദിനവൃത്താന്തം", "2 ദിനവൃത്താന്തം",
+        "എസ്രാ", "നെഹെമ്യാവു", "എസ്ഥേർ", "യോബ്", "സങ്കീർത്തനങ്ങൾ", "സദൃശ്യവാക്യങ്ങൾ", "സഭാപ്രസംഗി", "പരമഗീതം",
+        "യെശയ്യാവ്", "യെരെമ്യാവ്", "വിലാപങ്ങൾ", "യെഹേസ്കേൽ", "ദാനീയേൽ", "ഹോശേയ", "യോവേൽ", "ആമോസ്",
+        "ഓബദ്യാവു", "യോനാ", "മീഖാ", "നാഹൂം", "ഹബക്കൂക്ക്", "സെഫന്യാവു", "ഹഗ്ഗായി", "സെഖർയ്യാവു", "മലാഖി",
+        "മത്തായി", "മർക്കോസ്", "ലൂക്കോസ്", "യോഹന്നാൻ", "പ്രവൃത്തികൾ", "റോമർ", "1 കൊരിന്ത്യർ", "2 കൊരിന്ത്യർ",
+        "ഗലാത്യർ", "എഫെസ്യർ", "ഫിലിപ്പിയർ", "കൊലൊസ്സ്യർ", "1 തെസ്സലോനിക്ക്യർ", "2 തെസ്സലോനിക്ക്യർ",
+        "1 തിമൊഥെയോസ്", "2 തിമൊഥെയോസ്", "തീത്തോസ്", "ഫിലേമോൻ", "എബ്രായർ", "യാക്കോബ്", "1 പത്രോസ്", "2 പത്രോസ്",
+        "1 യോഹന്നാൻ", "2 യോഹന്നാൻ", "3 യോഹന്നാൻ", "യൂദാ", "വെളിപ്പാട്"
+    ];
+
+    const bookSelect = document.getElementById('bookSelect');
+    const chapterSelect = document.getElementById('chapterSelect');
+    const versesDiv = document.getElementById('verses');
+
+    fetch("https://raw.githubusercontent.com/godlytalias/Bible-Database/refs/heads/master/Malayalam/bible.json")
+        .then(response => response.json())
+        .then(data => {
+            const books = data.Book;
+
+            books.forEach((book, bookIndex) => {
+                const option = document.createElement('option');
+                option.value = bookIndex;
+                option.textContent = malayalamBookNames[bookIndex] || book.BookName;
+                bookSelect.appendChild(option);
+            });
+
+            function loadChapters(bookIndex) {
+                chapterSelect.innerHTML = "";
+                const selectedBook = books[bookIndex];
+                selectedBook.Chapter.forEach((chapter, chapIndex) => {
+                    const option = document.createElement('option');
+                    option.value = chapIndex;
+                    option.textContent = "അധ്യായം " + (chapIndex + 1);
+                    chapterSelect.appendChild(option);
+                });
+                loadVerses(bookIndex, 0);
+            }
+
+            function loadVerses(bookIndex, chapIndex) {
+                versesDiv.innerHTML = "";
+                const chapter = books[bookIndex].Chapter[chapIndex];
+                chapter.Verse.forEach((verse, index) => {
+                    const div = document.createElement('div');
+                    div.className = 'verse';
+                    div.innerHTML = `<span>${index + 1}</span> ${verse.Verse}`;
+                    versesDiv.appendChild(div);
+                });
+            }
+
+            bookSelect.addEventListener('change', () => {
+                loadChapters(bookSelect.value);
+            });
+
+            chapterSelect.addEventListener('change', () => {
+                loadVerses(bookSelect.value, chapterSelect.value);
+            });
+
+            loadChapters(0);
+        })
+        .catch(err => {
+            versesDiv.innerHTML = "ഡാറ്റ ലോഡ് ചെയ്യുന്നതിൽ പിഴവ് സംഭവിച്ചു.";
+            console.error(err);
+        });
+</script>
+
+</body>
+</html>
