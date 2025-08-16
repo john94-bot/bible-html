@@ -1,0 +1,2587 @@
+{
+  "songArr": [
+    {
+      "number": "1",
+      "title_ml": "അതിരാവിലെ തിരുസന്നിധി",
+      "title_en": "Athiravile Thirusannidhi"
+    },
+    {
+      "number": "2",
+      "title_ml": "പരനേ! തിരു മുഖശോഭയിൻ",
+      "title_en": "Parane thiru mugha shobhayin"
+    },
+    {
+      "number": "3",
+      "title_ml": "വന്ദനം പോന്നേശു നാഥാ",
+      "title_en": "Vandanam ponneshu nadha"
+    },
+    {
+      "number": "4",
+      "title_ml": "ഉണരുക നീയെന്നാത്മാവേ",
+      "title_en": "Unaruka neyen aatmave"
+    },
+    {
+      "number": "5",
+      "title_ml": "മനമേ പക്ഷിഗണങ്ങൾ ഉണർന്നിതാ",
+      "title_en": "Maname pakshi ganangal unarnnitha"
+    },
+    {
+      "number": "6",
+      "title_ml": "ഉഷ്ണകാലം നാം എഴുന്നെല്കുക",
+      "title_en": "Ushnakaalam Nam Ezhunnelkuka"
+    },
+    {
+      "number": "7",
+      "title_ml": "ആത്മാവേ ഉണരുക നേരം",
+      "title_en": "Aathmave Unaruka Neram"
+    },
+    {
+      "number": "8",
+      "title_ml": "കൂടെ പാർക്ക നേരം",
+      "title_en": "Koode parka neram"
+    },
+    {
+      "number": "9",
+      "title_ml": "എൻ ആത്മാവിൻ ആദിത്യനെ",
+      "title_en": "En aathmavin aadithyane"
+    },
+    {
+      "number": "10",
+      "title_ml": "ഇന്നു പകലിൽ എന്നെ",
+      "title_en": "Innu pakalil enne"
+    },
+    {
+      "number": "11",
+      "title_ml": "കർത്തനെ ഈ പകളിലെന്നെ നീ",
+      "title_en": "Karthane ee pakalilenne nee"
+    },
+    {
+      "number": "12",
+      "title_ml": "ഇന്നു പകൽ മുഴുവൻ",
+      "title_en": "Innu pakal muzhuvan"
+    },
+    {
+      "number": "13",
+      "title_ml": "സന്ധ്യേ സൂര്യനസ്തമന മുൻ",
+      "title_en": "Sandhye sooryastamana mun"
+    },
+    {
+      "number": "14",
+      "title_ml": "തീർന്നു പകൽ കാലം",
+      "title_en": "Theernnu pakal kaalam"
+    },
+    {
+      "number": "15",
+      "title_ml": "ആദിയും അന്തവുമില്ലാത്തൊരു",
+      "title_en": "Aadiyum andyavum illathoru"
+    },
+    {
+      "number": "16",
+      "title_ml": "ശുദ്ധ ശുദ്ധ ശുദ്ധ",
+      "title_en": "Shudha shudha shudha"
+    },
+    {
+      "number": "17",
+      "title_ml": "മന്നവനേ മഹോന്നതാ",
+      "title_en": "Mannavane mahonnatha"
+    },
+    {
+      "number": "18",
+      "title_ml": "വരിക സുരാധിപ പരാമപാരാ",
+      "title_en": "Varika suraadhipa paramapara"
+    },
+    {
+      "number": "19",
+      "title_ml": "സേനയിൻ യഹോവയേ നീ",
+      "title_en": "Senayin yahovaye nee"
+    },
+    {
+      "number": "20",
+      "title_ml": "പരമദേവ നിൻ വിലാസം",
+      "title_en": "Paramadeva nin vilasam"
+    },
+    {
+      "number": "21",
+      "title_ml": "ഭൂവാസികൾ സർവരുമേ",
+      "title_en": "Bhoovasikal sarvarume"
+    },
+    {
+      "number": "22",
+      "title_ml": "സർവ മനുഷ്യരേ! പരനു പാടി",
+      "title_en": "Sarva Maanushare paranu paaadi"
+    },
+    {
+      "number": "23",
+      "title_ml": "വരുവിൻ നാം യഹോവക്കു പാടുക",
+      "title_en": "Varuvin naam yahovakku paaduka"
+    },
+    {
+      "number": "24",
+      "title_ml": "യേശു സന്നിധി മമ ഭാഗ്യം",
+      "title_en": "Yeshu sannidhi mama bhaagyam"
+    },
+    {
+      "number": "25",
+      "title_ml": "നിൻ തിരു മുഖ ശോഭയെ",
+      "title_en": "Nin thiru mugha shobhaye"
+    },
+    {
+      "number": "26",
+      "title_ml": "ആശിഷം നൽകേണമേ",
+      "title_en": "Aashisham nalkename"
+    },
+    {
+      "number": "27",
+      "title_ml": "അനുഗ്രഹ കടലേ എഴുന്നള്ളി വരിക",
+      "title_en": "Anugraha kadale ezhunnalli varika"
+    },
+    {
+      "number": "28",
+      "title_ml": "വന്നിടേണം യേശു നാഥാ",
+      "title_en": "Vannidenam yeshu nadha"
+    },
+    {
+      "number": "29",
+      "title_ml": "വര സുന്ദര പരമണ്ഡല",
+      "title_en": "Vara sundara paramandala"
+    },
+    {
+      "number": "30",
+      "title_ml": "അൻപു തിങ്ങും ദയാ പരനേ",
+      "title_en": "Anpu thingum daya parane"
+    },
+    {
+      "number": "31",
+      "title_ml": "ആഷിസ്സം മാരിയുണ്ടാകും",
+      "title_en": "Aashissam mariyundakum"
+    },
+    {
+      "number": "32",
+      "title_ml": "യേശു നാഥാ നീതി സൂര്യാ",
+      "title_en": "Yeshu nadha neethi soorya"
+    },
+    {
+      "number": "33",
+      "title_ml": "സാനിദ്ധ്യം ആകേണം",
+      "title_en": "Saanidhyam aakenam"
+    },
+    {
+      "number": "34",
+      "title_ml": "ദേവാ ദേവാ ത്രിലോക നാഥാ",
+      "title_en": "Deva deva thrilokha nadha"
+    },
+    {
+      "number": "35",
+      "title_ml": "യേശുവേ ഈ സഭമേൽ",
+      "title_en": "Yeshuve ee sabhamel"
+    },
+    {
+      "number": "36",
+      "title_ml": "യേശുവെ ധ്യാനിക്കുമ്പോൾ ഞാൻ",
+      "title_en": "Yeshuve dhyanikkumbol njan"
+    },
+    {
+      "number": "37",
+      "title_ml": "യേശു മഹേശനെ ഞാൻ",
+      "title_en": "Yeshu maheshane njan"
+    },
+    {
+      "number": "38",
+      "title_ml": "ശ്രീ യേശു നാമമേ",
+      "title_en": "Sree yeshu naamame"
+    },
+    {
+      "number": "39",
+      "title_ml": "യേശു എന്നുള്ള നാമമേ",
+      "title_en": "Yeshu ennulla naamame"
+    },
+    {
+      "number": "40",
+      "title_ml": "ഹാ കൂടി നാമെല്ലാരും",
+      "title_en": "Ha koodi naamellarum"
+    },
+    {
+      "number": "41",
+      "title_ml": "മാനസമേ ശ്രീ",
+      "title_en": "Maanasame shree"
+    },
+    {
+      "number": "42",
+      "title_ml": "നാഥാ ചൊരിയേണമേ",
+      "title_en": "Naadha choriyename"
+    },
+    {
+      "number": "43",
+      "title_ml": "ശ്രീയേശു നാമം അതിശയ",
+      "title_en": "Sree yeshu naamam athishaya"
+    },
+    {
+      "number": "44",
+      "title_ml": "യേശുവിൻ നാമം മധുരിമ",
+      "title_en": "Yeshuvin naamam madhurima"
+    },
+    {
+      "number": "45",
+      "title_ml": "നാഥനെ എൻ യേശുവേ",
+      "title_en": "Naadhane en yeshuve"
+    },
+    {
+      "number": "46",
+      "title_ml": "ഹാലേലുയ്യാ ഹാലേലുയ്യാ ഹാലേലുയ്യാ",
+      "title_en": "Hallelujah hallelujah hallelujah"
+    },
+    {
+      "number": "47",
+      "title_ml": "സേനകളിൻ പരൻ യെഹോവ",
+      "title_en": "Senakalin paran yehova"
+    },
+    {
+      "number": "48",
+      "title_ml": "യേശുദേവാ യേശുനായകാ",
+      "title_en": "Yeshudeva yeshu naayaka"
+    },
+    {
+      "number": "49",
+      "title_ml": "സ്തുതിപ്പിൻ സ്തുതിപ്പിൻ",
+      "title_en": "Sthuthippin sthuthippin"
+    },
+    {
+      "number": "50",
+      "title_ml": "ദേവ നന്ദനന വന്ദനം",
+      "title_en": "Deva nandhanana vandhanam"
+    },
+    {
+      "number": "51",
+      "title_ml": "യേശുവിനെ സ്തുതി നീ",
+      "title_en": "Yeshuvine sthuthi ne"
+    },
+    {
+      "number": "52",
+      "title_ml": "സ്തോത്രം യേശു നാഥനെ",
+      "title_en": "Sthotram yeshu nadhane"
+    },
+    {
+      "number": "53",
+      "title_ml": "ശ്രീയേശു ദേവാ സ്തുതി നിനക്കു",
+      "title_en": "Sree yeshu deva sthuthi ninakku"
+    },
+    {
+      "number": "54",
+      "title_ml": "അഖിലേശ നന്ദനനു അഖിലാണ്ഡ",
+      "title_en": "Akhilesha nandananu akhilanda"
+    },
+    {
+      "number": "55",
+      "title_ml": "യേശു മഹോന്നതനെ നിനക്കു",
+      "title_en": "Yeshu mahonnatane ninakku"
+    },
+    {
+      "number": "56",
+      "title_ml": "വന്ദനം യേശുപരാ",
+      "title_en": "Vandanam yeshu para"
+    },
+    {
+      "number": "57",
+      "title_ml": "കർത്താവിനെ നാം സ്തുതിക്ക",
+      "title_en": "Karthavine naam sthuthikka"
+    },
+    {
+      "number": "58",
+      "title_ml": "സ്തോത്രം ശ്രീ മാനുവേലനെ",
+      "title_en": "Sthotram shree manuvelane"
+    },
+    {
+      "number": "59",
+      "title_ml": "സ്തോത്രം ചെയ്യും ഞാനെന്നും",
+      "title_en": "Sthotram cheyyum njanennum"
+    },
+    {
+      "number": "60",
+      "title_ml": "സ്തോത്രമെന്നേശു പരാ",
+      "title_en": "Sthotram en yeshu para"
+    },
+    {
+      "number": "61",
+      "title_ml": "സ്തോത്രം യേശുവേ സ്തോത്രം യേശുവേ",
+      "title_en": "Sthotram yeshuve sthotram yeshuve"
+    },
+    {
+      "number": "62",
+      "title_ml": "യേശു നാഥാ നിൻ കൃപക്കായ്",
+      "title_en": "Yeshu nadha nin krupakkayi"
+    },
+    {
+      "number": "63",
+      "title_ml": "പരിശുദ്ധ പരനെ സ്തുതി നിനക്കു",
+      "title_en": "Parishudha parane sthuthi ninakku"
+    },
+    {
+      "number": "64",
+      "title_ml": "ആടുകൾക്ക് വേണ്ടി ജീവനെ",
+      "title_en": "Aadukalkku vendi jeevane"
+    },
+    {
+      "number": "65",
+      "title_ml": "പരമ ദയാലോ പാദം വന്ദനമേ",
+      "title_en": "Parama dayalo paadham vandaname"
+    },
+    {
+      "number": "66",
+      "title_ml": "ജീവനെ എൻ ജീവനെ നമോ നമോ",
+      "title_en": "Jeevane en jeevane namo namo"
+    },
+    {
+      "number": "67",
+      "title_ml": "എന്നോടുള്ള നിൻ സർവ നന്മകൾക്കായി",
+      "title_en": "Ennodulla nin sarva nanmakalkkayi"
+    },
+    {
+      "number": "68",
+      "title_ml": "പരമപിതാവേ വന്ദനം",
+      "title_en": "Parama pithave vandanam"
+    },
+    {
+      "number": "69",
+      "title_ml": "വാഴ്ത്തുക നീ മനമേ എൻ പരനെ",
+      "title_en": "Vaazthuka ne maname en parane"
+    },
+    {
+      "number": "70",
+      "title_ml": "പാടി സ്തുതി മനമേ പരനെ",
+      "title_en": "Paadi sthuthi maname parane"
+    },
+    {
+      "number": "71",
+      "title_ml": "വന്ദനം വന്ദനം നാഥാ",
+      "title_en": "Vandanam vandanam nadha"
+    },
+    {
+      "number": "72",
+      "title_ml": "മനുവേലാ നിനക്കു വന്ദനം",
+      "title_en": "Manuvela ninakku vandanam"
+    },
+    {
+      "number": "73",
+      "title_ml": "പാടും പരമ രക്ഷകനേശു",
+      "title_en": "Paadum parama rakshakaneshu"
+    },
+    {
+      "number": "74",
+      "title_ml": "വാഴ്ത്തിടുന്നു വാഴ്ത്തിടുന്നു",
+      "title_en": "Vaazhithidunnu vaazhithidunnu"
+    },
+    {
+      "number": "75",
+      "title_ml": "സർവ ലോക സ്രഷ്ടാവാകും",
+      "title_en": "Sarva loka srashtavakum"
+    },
+    {
+      "number": "76",
+      "title_ml": "പാഹിമാം ജഗദീശ്വരാ",
+      "title_en": "Paahimaam jagadeeshwara"
+    },
+    {
+      "number": "77",
+      "title_ml": "ദേവനു സദാ ജയ മംഗളം",
+      "title_en": "Devanu sadha jaya mangalam"
+    },
+    {
+      "number": "78",
+      "title_ml": "എന്നെ വീണ്ട രക്ഷകന്റെ",
+      "title_en": "Enne veenda rakshakante"
+    },
+    {
+      "number": "79",
+      "title_ml": "എൻ ആത്മാവേ വാഴ്ത്തുക നീ",
+      "title_en": "En aathmave vazhthuka ne"
+    },
+    {
+      "number": "80",
+      "title_ml": "യേശു നായക ശ്രീശാ നമോ",
+      "title_en": "Yeshu nayaka sreesha namo"
+    },
+    {
+      "number": "81",
+      "title_ml": "ദൈവത്തിനു സ്തോത്രം ദൈവത്തിനു",
+      "title_en": "Daivathinu sthotram daivathinu"
+    },
+    {
+      "number": "82",
+      "title_ml": "ദേവ ദേവനു മംഗളം",
+      "title_en": "Deva devanu mangalam"
+    },
+    {
+      "number": "83",
+      "title_ml": "പാപത്തിൻ വൻ വിഷത്തെയൊഴിപ്പാൻ",
+      "title_en": "Paapathin van vishathe ozhippan"
+    },
+    {
+      "number": "84",
+      "title_ml": "എന്നാളും സ്തുതിക്കണം",
+      "title_en": "Ennalum sthuthikkenam"
+    },
+    {
+      "number": "85",
+      "title_ml": "പരിശുദ്ധ പരനെ നിരന്തരം",
+      "title_en": "Parishudha parane nirandharam"
+    },
+    {
+      "number": "86",
+      "title_ml": "സ്തുതി സ്തുതി നിനക്കെ",
+      "title_en": "Sthuthi sthuthi ninakke"
+    },
+    {
+      "number": "87",
+      "title_ml": "രക്ഷകനെ നിനക്കു കീർത്തനം",
+      "title_en": "Rakshakane ninakku keerthanam"
+    },
+    {
+      "number": "88",
+      "title_ml": "പാദം വന്ദിക്കുന്നേൻ തിരുകൃപ",
+      "title_en": "Paadham vandhikkunnen thiru krupa"
+    },
+    {
+      "number": "89",
+      "title_ml": "മാനുവേലിൻ സ്തുതിയെ പാടിടുവാൻ",
+      "title_en": "Maanuvelin sthuthiye paadiduvan"
+    },
+    {
+      "number": "90",
+      "title_ml": "എല്ലാരും യേശുനാമത്തെ",
+      "title_en": "Ellarum yeshu namathe"
+    },
+    {
+      "number": "91",
+      "title_ml": "വാഴ്ത്തിൻ വാഴ്ത്തിൻ യേശു",
+      "title_en": "Vaazhthin vaazhthin yeshu"
+    },
+    {
+      "number": "92",
+      "title_ml": "സ്തുതി ചെയ്മനമേ",
+      "title_en": "Sthuthi chey maname"
+    },
+    {
+      "number": "93",
+      "title_ml": "മനമേ പുകഴ്‌ത്തീടു നീ",
+      "title_en": "Maname pukazhtheedu ne"
+    },
+    {
+      "number": "94",
+      "title_ml": "വന്ദനം ചെയ്തീടുവിൻ ശ്രീയേശുവേ",
+      "title_en": "Vandanam cheyteeduvin sree yeshuve"
+    },
+    {
+      "number": "95",
+      "title_ml": "പാടുവിൻ സഹജരെ",
+      "title_en": "Paaduvin sahajare"
+    },
+    {
+      "number": "96",
+      "title_ml": "പാടും ഞാൻ യേശുവിനു",
+      "title_en": "Paadum njan yeshuvinu"
+    },
+    {
+      "number": "97",
+      "title_ml": "പാടും ഞാൻ പരമേശനു",
+      "title_en": "Paadum njan parameshanu"
+    },
+    {
+      "number": "98",
+      "title_ml": "വാഴ്ത്തീടുമേ വാഴ്ത്തീടുമേ ഇമ്മാനുവേലെ",
+      "title_en": "Vaazhthidume vaazhthidume immanuvele"
+    },
+    {
+      "number": "99",
+      "title_ml": "പുകഴ്ത്തിൻ യേശുവേ പുകഴ്ത്തീൻ",
+      "title_en": "Pukazhthin yeshuve pukazhtheen"
+    },
+    {
+      "number": "100",
+      "title_ml": "അതിശയ കാരുണ്യ മഹാദൈവമായോനെ",
+      "title_en": "Athishaya karunya maha daivamayone"
+    },
+    {
+      "number": "101",
+      "title_ml": "നിത്യവന്ദനം നിനക്കു",
+      "title_en": "Nitya vandanam ninakku"
+    },
+    {
+      "number": "102",
+      "title_ml": "കരുണാകരനാം പരനേ",
+      "title_en": "Karunakaranaam parane"
+    },
+    {
+      "number": "103",
+      "title_ml": "പരദേവ സ്വർഗ്ഗ പുരദേവ",
+      "title_en": "Paradeva swarga puradeva"
+    },
+    {
+      "number": "104",
+      "title_ml": "ആദിത്യ ചന്ദ്രാദികളെ",
+      "title_en": "Aditya chandradikale"
+    },
+    {
+      "number": "105",
+      "title_ml": "പരമ പിതാവിനു സ്‌തുതി പാടാം",
+      "title_en": "Parama pithavinu sthuthi paadam"
+    },
+    {
+      "number": "106",
+      "title_ml": "സ്തുതിച്ചീടുവിൻ കീർത്തനങ്ങൾ",
+      "title_en": "Sthuthicheeduvin keerthanangal"
+    },
+    {
+      "number": "107",
+      "title_ml": "ഞാനെന്നും സ്തുതിക്കും എൻ പരനെ",
+      "title_en": "Njaanennum sthuthikkum en parane"
+    },
+    {
+      "number": "108",
+      "title_ml": "എന്നുള്ളമേ സ്തുതിക്ക നീ പരനെ",
+      "title_en": "Ennullame sthuthikka ne parane"
+    },
+    {
+      "number": "109",
+      "title_ml": "സ്തുതി ഗീതം പാടുക നാം",
+      "title_en": "Sthuthi geetham paaduka naam"
+    },
+    {
+      "number": "110",
+      "title_ml": "ഒന്നുമില്ലായ്കയിൽ നിന്നെന്നെ",
+      "title_en": "Onnumillaikayil ninnenne"
+    },
+    {
+      "number": "111",
+      "title_ml": "വാഴ്ത്തെൻ ദേഹി സ്വർ രാജനെ",
+      "title_en": "Vaazhthen dehi swar raajane"
+    },
+    {
+      "number": "112",
+      "title_ml": "യേശു നാമം എത്ര ഇമ്പം",
+      "title_en": "Yeshu naamam etra imbam"
+    },
+    {
+      "number": "113",
+      "title_ml": "പാടിൻ ഇൻപഗീതം",
+      "title_en": "Paadin inpa geetham"
+    },
+    {
+      "number": "114",
+      "title_ml": "നരരോടതി സ്നേഹം പൂണ്ടു",
+      "title_en": "Nararoodathi sneham poondu"
+    },
+    {
+      "number": "115",
+      "title_ml": "ക്രൈസ്തവരെ വന്ദനയ്ക്കുണരിൻ",
+      "title_en": "Kristavare vandanakkunarin"
+    },
+    {
+      "number": "116",
+      "title_ml": "ആട്ടിടയർ രാത്രികാലേ",
+      "title_en": "Aattidayar raatri kaale"
+    },
+    {
+      "number": "117",
+      "title_ml": "അത്ഭുതമേ അത്യത്ഭുത",
+      "title_en": "Albuthame athyalbutha"
+    },
+    {
+      "number": "118",
+      "title_ml": "ജാതനായ് ജാതനായിന്നു",
+      "title_en": "Jaathanayi jaathanayinnu"
+    },
+    {
+      "number": "119",
+      "title_ml": "പാരിടം മംഗള",
+      "title_en": "Paaridam mangala"
+    },
+    {
+      "number": "120",
+      "title_ml": "വാഗ്ദത്ത സമ്പൂർത്തിയായി",
+      "title_en": "Vaagdatha sampoorthiyayi"
+    },
+    {
+      "number": "121",
+      "title_ml": "സ്നേഹമാം ദേവ സ്വർഗീയ താതാ",
+      "title_en": "Snehamam deva swargeeya taatha"
+    },
+    {
+      "number": "122",
+      "title_ml": "രാജ രാജ ദൈവ രാജൻ",
+      "title_en": "Raja raja daiva rajan"
+    },
+    {
+      "number": "123",
+      "title_ml": "അതിമംഗല കാരണനേ",
+      "title_en": "Athi mangala kaaranane"
+    },
+    {
+      "number": "124",
+      "title_ml": "നരർ രക്ഷപെടുവാൻ",
+      "title_en": "Narar raksha peduvan"
+    },
+    {
+      "number": "125",
+      "title_ml": "അത്ഭുതനെ യേശു നാഥാ",
+      "title_en": "Athbudhane yeshu nadha"
+    },
+    {
+      "number": "126",
+      "title_ml": "യേശു ഇന്നു ജനിച്ചു",
+      "title_en": "Yeshu innu janichu"
+    },
+    {
+      "number": "127",
+      "title_ml": "ബെത്‌ലെഹെം നൽ നഗരിയിൽ",
+      "title_en": "Bethlehem nal nagariyil"
+    },
+    {
+      "number": "128",
+      "title_ml": "വിശ്വാസികളേ വാ തുഷ്ട മാനസരായ്",
+      "title_en": "Vishwasikale va tushta maanasarai"
+    },
+    {
+      "number": "129",
+      "title_ml": "കേൾക്ക ദൂത സൽസ്വരം",
+      "title_en": "Kelkka dootha salsvaram"
+    },
+    {
+      "number": "130",
+      "title_ml": "യേശുവിൻ ജനനത്തെ നാം",
+      "title_en": "Yeshuvin jananathe naam"
+    },
+    {
+      "number": "131",
+      "title_ml": "മഹിയിൽ മാനുഷവേഷമെടുത്തു",
+      "title_en": "Mahiyil maanusha veshameduthu"
+    },
+    {
+      "number": "132",
+      "title_ml": "മറുദിവസം മറിയമകൻ",
+      "title_en": "Marudivasam mariya makan"
+    },
+    {
+      "number": "133",
+      "title_ml": "ശാലേമിൻ അധിപതി",
+      "title_en": "Shalemin adhipathi"
+    },
+    {
+      "number": "134",
+      "title_ml": "മാനം മഹത്വം സ്തോത്രം",
+      "title_en": "Maanam mahatvam sthotram"
+    },
+    {
+      "number": "135",
+      "title_ml": "ഹോശന്നാ മഹോന്നതനാം",
+      "title_en": "Hoshanna mahonnathanam"
+    },
+    {
+      "number": "136",
+      "title_ml": "പരമതനയനാകും",
+      "title_en": "Parama tanayanaakum"
+    },
+    {
+      "number": "137",
+      "title_ml": "ദേവേശാ യേശു പരാ",
+      "title_en": "Devesha yeshu para"
+    },
+    {
+      "number": "138",
+      "title_ml": "അയ്യയ്യോ മഹാ ആശ്ചര്യം",
+      "title_en": "Ayyayyo maha aashcharyam"
+    },
+    {
+      "number": "139",
+      "title_ml": "ദേവാ ദേവനന്ദനൻ",
+      "title_en": "Deva deva nandhanan"
+    },
+    {
+      "number": "140",
+      "title_ml": "ദൈവമേ എൻ ദൈവമേ",
+      "title_en": "Daivame en daivame"
+    },
+    {
+      "number": "141",
+      "title_ml": "വീണാൽ സീയോൻകുമാരി",
+      "title_en": "Veenal seeyonkumari"
+    },
+    {
+      "number": "142",
+      "title_ml": "വന്നേൻ കാൽവരി കുരിശതിൻ",
+      "title_en": "Vannen kaalvari kurishathin"
+    },
+    {
+      "number": "143",
+      "title_ml": "എന്തൊരൻപിതപ്പനെ ഈ പാപിമേൽ",
+      "title_en": "Enthoranpitappane ee paapimel"
+    },
+    {
+      "number": "144",
+      "title_ml": "ദൈവത്തിന്റെ ഏക പുത്രൻ",
+      "title_en": "Daivathinte eka putran"
+    },
+    {
+      "number": "145",
+      "title_ml": "നിനക്കായെൻ ജീവനെ മരക്കുരിശിൽ",
+      "title_en": "Ninakkayen jeevane marakkurishil"
+    },
+    {
+      "number": "146",
+      "title_ml": "ക്രൂശിന്മേൽ ക്രൂശിന്മേൽ കാണുന്ന",
+      "title_en": "Krushinmel krushinmel kaanunna"
+    },
+    {
+      "number": "147",
+      "title_ml": "ഇമ്മാനുവേൽ തൻ ചങ്കതിൽ",
+      "title_en": "Immanuel than changathil"
+    },
+    {
+      "number": "148",
+      "title_ml": "സർവ്വ പാപകറകൾ തീർത്തു",
+      "title_en": "Sarva paapa karakal teerthu"
+    },
+    {
+      "number": "149",
+      "title_ml": "പിളർന്നൊരു പാറയെ",
+      "title_en": "Pilarnnoru paaraye"
+    },
+    {
+      "number": "150",
+      "title_ml": "മഹത്വ പ്രഭു മരിച്ച",
+      "title_en": "Mahatva prabhu maricha"
+    },
+    {
+      "number": "151",
+      "title_ml": "സോദരരെ പാപ മാർഗം",
+      "title_en": "Sodarare paapa margam"
+    },
+    {
+      "number": "152",
+      "title_ml": "ഹല്ലേലൂയ ഹല്ലേലൂയ",
+      "title_en": "Hallelujah Hallelujah"
+    },
+    {
+      "number": "153",
+      "title_ml": "ജയം ജയം യേശുവിനു",
+      "title_en": "Jayam jayam Yeshuvinu"
+    },
+    {
+      "number": "154",
+      "title_ml": "യേശു ക്രിസ്തു ഉയിർത്തു ജീവിക്കുന്നു",
+      "title_en": "Yeshu kristhu uyirthu jeevikkunnu"
+    },
+    {
+      "number": "155",
+      "title_ml": "മരണം ജയിച്ച വീരാ",
+      "title_en": "Maranam jayicha veera"
+    },
+    {
+      "number": "156",
+      "title_ml": "ഇന്നേശു രാജൻ ഉയിർത്തെഴുന്നേറ്റല്ലേലൂയ",
+      "title_en": "Inneshu rajan uyirthezhunettallelujah"
+    },
+    {
+      "number": "157",
+      "title_ml": "ജീവനായകനെ മനുവേലെ",
+      "title_en": "Jeevanayakane manuvele"
+    },
+    {
+      "number": "158",
+      "title_ml": "ക്രിസ്തു വീണ്ടും ജീവിച്ചു",
+      "title_en": "Kristhu veendum jeevichu"
+    },
+    {
+      "number": "159",
+      "title_ml": "മഹിമാപതി മശിഹാ മേഘ",
+      "title_en": "Mahimapathi mashiha megha"
+    },
+    {
+      "number": "160",
+      "title_ml": "വാനലോകത്തെഴുന്നെള്ളിനാൻ",
+      "title_en": "Vaanalokathezhunallinaan"
+    },
+    {
+      "number": "161",
+      "title_ml": "മുൾകിരീടത്താൽ മുറിവേറ്റ",
+      "title_en": "Mulkireedathal murivetta"
+    },
+    {
+      "number": "162",
+      "title_ml": "ദേഹം മണ്ണാകും മുമ്പേ",
+      "title_en": "Deham mannakum munpe"
+    },
+    {
+      "number": "163",
+      "title_ml": "പാപികളിൻ രക്ഷകൻ",
+      "title_en": "Paapikalin rakshakan"
+    },
+    {
+      "number": "164",
+      "title_ml": "രക്ഷിതാവിനെ കാൺക പാപി",
+      "title_en": "Rakshitavine kaanka paapi"
+    },
+    {
+      "number": "165",
+      "title_ml": "മണ്മയമാം ഈ ഉലകിൽ",
+      "title_en": "Manmayamam ee ulakil"
+    },
+    {
+      "number": "166",
+      "title_ml": "യേശുവിന്നരികിൽ വാ",
+      "title_en": "Yeshuvinnarikil va"
+    },
+    {
+      "number": "167",
+      "title_ml": "പരമാനന്ദമനുഭവിപ്പാൻ",
+      "title_en": "Paramananthamanubhavippan"
+    },
+    {
+      "number": "168",
+      "title_ml": "നസറയനാകും യേശു നാഥൻ",
+      "title_en": "Nasarayyanakum Yeshu nadhan"
+    },
+    {
+      "number": "169",
+      "title_ml": "പാപി പരനരികിൽ വരിക നീ",
+      "title_en": "Paapi paranarikil varika ne"
+    },
+    {
+      "number": "170",
+      "title_ml": "ഞാൻ ചെയ്ത പാതകം എങ്ങനെ പോം",
+      "title_en": "Njan cheytha paathakam engane pom"
+    },
+    {
+      "number": "171",
+      "title_ml": "മേൽവീട്ടിൽ എൻയേശു ഹാ സ്നേഹമായ്",
+      "title_en": "Mel veettil enyeshu ha snehamai"
+    },
+    {
+      "number": "172",
+      "title_ml": "നീ ക്ഷീണിച്ചോ നീ വലഞ്ഞോ",
+      "title_en": "Ne ksheenicho ne valanjo"
+    },
+    {
+      "number": "173",
+      "title_ml": "എന്തു നല്ലോർ സഖി യേശു",
+      "title_en": "Enthu nallor saghi Yeshu"
+    },
+    {
+      "number": "174",
+      "title_ml": "മറുതലിക്കും മകനെ",
+      "title_en": "Marutalikkumm Makane"
+    },
+    {
+      "number": "175",
+      "title_ml": "ഓടി വാ കൃപയാം നദിയരികിൽ",
+      "title_en": "Oodi va krupayam nadhiyarikil"
+    },
+    {
+      "number": "176",
+      "title_ml": "ശുദ്ധിക്കായ് നീ യേശു സമീപേ പോയോ",
+      "title_en": "Shudhikkai ne Yeshu sameepe poyo"
+    },
+    {
+      "number": "177",
+      "title_ml": "പിന്നാലെ വരിക കുരിശെടുത്തെൻ",
+      "title_en": "Pinnale varika kurisheduthen"
+    },
+    {
+      "number": "178",
+      "title_ml": "വിലയേറിയ കാലം",
+      "title_en": "Vilayeriya kaalam"
+    },
+    {
+      "number": "179",
+      "title_ml": "ലോക ശോക സാഗരേ നീ",
+      "title_en": "Lokha shokha sagare ne"
+    },
+    {
+      "number": "180",
+      "title_ml": "ജീവനുണ്ടാം ഏകനോട്ടത്താൽ",
+      "title_en": "Jeevanundam eka nottathal"
+    },
+    {
+      "number": "181",
+      "title_ml": "വന്നീടുവിൻ യേശു പാദം",
+      "title_en": "Vanneduvin Yeshu paadham"
+    },
+    {
+      "number": "182",
+      "title_ml": "ജീവിത യാത്രക്കാരാ കാലടികൾ",
+      "title_en": "Jeevitha yatrakkara kaladikal"
+    },
+    {
+      "number": "183",
+      "title_ml": "ജീവിത പാത എങ്ങോട്ടെന്നോർക്ക",
+      "title_en": "Jeevitha paatha engottennorkka"
+    },
+    {
+      "number": "184",
+      "title_ml": "തനയ നിന്നുടെ പേർക്കായി",
+      "title_en": "Tanaya ninnude perkkayi"
+    },
+    {
+      "number": "185",
+      "title_ml": "അയ്യോ പാപി നീ എൻ പാടു കാണുക",
+      "title_en": "Ayyo paapi ne en paadu kaanuka"
+    },
+    {
+      "number": "186",
+      "title_ml": "എൻ ജീവൻ ഞാൻ തന്നു",
+      "title_en": "En jeevan njan tannu"
+    },
+    {
+      "number": "187",
+      "title_ml": "വരിക നൽവരങ്ങളെ",
+      "title_en": "Varika nalvarangale"
+    },
+    {
+      "number": "188",
+      "title_ml": "വന്നാവസിക്ക ദേവാത്മാവേ നീ",
+      "title_en": "Vannavasikka devaatmave ne"
+    },
+    {
+      "number": "189",
+      "title_ml": "ആത്മാവേ വന്നീടുക",
+      "title_en": "Aathmaave vanneeduka"
+    },
+    {
+      "number": "190",
+      "title_ml": "വിശുദ്ധാത്മാവേ വരിക",
+      "title_en": "Vishudhatmaave varika"
+    },
+    {
+      "number": "191",
+      "title_ml": "മാ പരിശുദ്ധാത്മനെ",
+      "title_en": "Ma parishudhaatmane"
+    },
+    {
+      "number": "192",
+      "title_ml": "പെന്തിക്കോസ്തിൻ വല്ലഭനെ",
+      "title_en": "Penthikkosthin vallabhane"
+    },
+    {
+      "number": "193",
+      "title_ml": "ശുദ്ധാ ശുദ്ധാ കർത്താ ദേവാ",
+      "title_en": "Shudha shudha kartha deva"
+    },
+    {
+      "number": "194",
+      "title_ml": "എന്നുള്ളിലെന്നും വസിച്ചീടുവാൻ സ്വർഗ്ഗ",
+      "title_en": "Ennullilennum vasichiduvaan swarga"
+    },
+    {
+      "number": "195",
+      "title_ml": "പാവനാത്മദാനം പകർന്നിടേണം",
+      "title_en": "Paavanaathma daanam pakarnnidenam"
+    },
+    {
+      "number": "196",
+      "title_ml": "പെന്തിക്കോസ്തിൻ ശക്തിയെ",
+      "title_en": "Penthikkosthin shakthiye"
+    },
+    {
+      "number": "197",
+      "title_ml": "പരിശുദ്ധാത്മാവേയിപ്പോൾ",
+      "title_en": "Parishudhaatmaave ippol"
+    },
+    {
+      "number": "198",
+      "title_ml": "നിന്തിരു വചനത്തിൽ നീ",
+      "title_en": "Nindhiru vachanathil ne"
+    },
+    {
+      "number": "199",
+      "title_ml": "നല്ല ദേവനെ ഞങ്ങൾ എല്ലാവരെയും",
+      "title_en": "Nalla devane njangal ellavareyum"
+    },
+    {
+      "number": "200",
+      "title_ml": "ദൈവ വചനമേ ദിവ്യവിശേഷം",
+      "title_en": "Daiva vachaname divya vishesham"
+    },
+    {
+      "number": "201",
+      "title_ml": "യേശുവിൻ തിരു പാദത്തിൽ",
+      "title_en": "Yeshuvin thiru paadathil"
+    },
+    {
+      "number": "202",
+      "title_ml": "മധുരം മധുരം മനോഹരം നൽ",
+      "title_en": "Madhuram madhuram manoharam"
+    },
+    {
+      "number": "203",
+      "title_ml": "ദൈവമേ നിൻ അറിവാലെ",
+      "title_en": "Daivame nin arivale"
+    },
+    {
+      "number": "204",
+      "title_ml": "പാപി ഞാൻ മഹാ പാപി",
+      "title_en": "Paapi njan maha paapi"
+    },
+    {
+      "number": "205",
+      "title_ml": "പരനേ തൃക്കടക്കണ്ണാൽ",
+      "title_en": "Parane thrukkadakkannal"
+    },
+    {
+      "number": "206",
+      "title_ml": "ശ്രീ ദേവാട്ടിൻകുട്ടിയെ! തിരു",
+      "title_en": "Sri devattin kuttiye thiru"
+    },
+    {
+      "number": "207",
+      "title_ml": "എന്തു ചെയ്യേണ്ടു ഞാൻ",
+      "title_en": "Enthu cheyyendu njan"
+    },
+    {
+      "number": "208",
+      "title_ml": "കുമ്പിടുന്നേനെൻ ജീവ നാഥനാം",
+      "title_en": "Kumbidunnenen jeeva nadhanam"
+    },
+    {
+      "number": "209",
+      "title_ml": "ജീവനായകനാകുമെശുവെ",
+      "title_en": "Jeeva naayakanam Yeshuve"
+    },
+    {
+      "number": "210",
+      "title_ml": "യേശുവേ! കരുണാസനപ്പത്തിയേ",
+      "title_en": "Yeshuve karunasana ppathiye"
+    },
+    {
+      "number": "211",
+      "title_ml": "ദൈവമേ! സ്നേഹരൂപനേ!",
+      "title_en": "Daivame sneha roopane"
+    },
+    {
+      "number": "212",
+      "title_ml": "യേശുവേ കരുണാസനാ! മഹാ",
+      "title_en": "Yeshuve karunaasana maha"
+    },
+    {
+      "number": "213",
+      "title_ml": "അൻപിൻരൂപി യേശു നാഥാ",
+      "title_en": "Anpin roopi Yeshu nadha"
+    },
+    {
+      "number": "214",
+      "title_ml": "യേശുവേ പോലെ ആകുവാൻ",
+      "title_en": "Yeshuve pole akuvan"
+    },
+    {
+      "number": "215",
+      "title_ml": "നീയൊഴികെ നീയൊഴികെ ആരുമില്ലീശോ",
+      "title_en": "Ne ozhike ne ozhike aarumillesho"
+    },
+    {
+      "number": "216",
+      "title_ml": "സ്നേഹമാമേശുവെ സ്നേഹമേ",
+      "title_en": "Snehamameshuve snehame"
+    },
+    {
+      "number": "217",
+      "title_ml": "മഹത്വ പ്രഭു മരിച്ച",
+      "title_en": "Mahatva prabhu maricha"
+    },
+    {
+      "number": "218",
+      "title_ml": "സ്വന്തം നിനക്കിനി ഞാൻ",
+      "title_en": "Swantham ninakkini njan"
+    },
+    {
+      "number": "219",
+      "title_ml": "യേശുവിൻ സ്വന്തമത്രെ ഞാൻ ഇന്നും",
+      "title_en": "Yeshuvin swantamatre njan innum"
+    },
+    {
+      "number": "220",
+      "title_ml": "ഞാൻ വരുന്നു ക്രൂശിങ്കൽ",
+      "title_en": "Njan varunnu krushingal"
+    },
+    {
+      "number": "221",
+      "title_ml": "മുറിവേറ്റ കുഞ്ഞാടേ നിൻ",
+      "title_en": "Murivetta kunjade nin"
+    },
+    {
+      "number": "222",
+      "title_ml": "തെറ്റി ഞാൻ കാണാതെ പോയൊരാടു",
+      "title_en": "Tetti njan kaanathe poyoraadu"
+    },
+    {
+      "number": "223",
+      "title_ml": "എൻ ദൈവമേ നടത്തുകെന്നെ നീ",
+      "title_en": "En daivame nadathukenne ne"
+    },
+    {
+      "number": "224",
+      "title_ml": "സേവിച്ചീടും നിന്നെ ഞാൻ",
+      "title_en": "Sevicheedum ninne njan"
+    },
+    {
+      "number": "225",
+      "title_ml": "നിന്റെ ഹിതം പൊലെയെന്നെ",
+      "title_en": "Ninte hitham pole enne"
+    },
+    {
+      "number": "226",
+      "title_ml": "ദൈവ ഹിതം അനുസരിക്കുന്നത്",
+      "title_en": "Daiva hitham anusarikkunnatu"
+    },
+    {
+      "number": "227",
+      "title_ml": "നിന്നിഷ്ടം ദേവ ആയിടട്ടെ",
+      "title_en": "Ninnishtam deva ayidatte"
+    },
+    {
+      "number": "228",
+      "title_ml": "ആത്മാ ദേഹി ദേഹത്തെ",
+      "title_en": "Aatma dehi dehathe"
+    },
+    {
+      "number": "229",
+      "title_ml": "സ്വർഗ്ഗീയ പിതാവേ നിൻ തിരുഹിതം",
+      "title_en": "Swargeeya pithave ninthiru hitham"
+    },
+    {
+      "number": "230",
+      "title_ml": "കുരിശെടുത്തേൻ യേശുവിനെ",
+      "title_en": "Kurisheduthen Yeshuvine"
+    },
+    {
+      "number": "231",
+      "title_ml": "എല്ലാം അങ്ങേ മഹത്വത്തിനായ്",
+      "title_en": "Ellam ange mahatvathinai"
+    },
+    {
+      "number": "232",
+      "title_ml": "എൻ ദീപമേ ഈ അന്ധകാരത്തിൽ",
+      "title_en": "En deepame ee andhakarathil"
+    },
+    {
+      "number": "233",
+      "title_ml": "എൻ യേശു എൻ പ്രിയൻ",
+      "title_en": "En Yeshu en priyan"
+    },
+    {
+      "number": "234",
+      "title_ml": "സ്വീകരിക്കേൻ ജീവനെ",
+      "title_en": "Sweekarikken jeevane"
+    },
+    {
+      "number": "235",
+      "title_ml": "ലോകമാം ഗംഭീര വാരിധിയിൽ",
+      "title_en": "Lokamam gambeera vaaridhiyil"
+    },
+    {
+      "number": "236",
+      "title_ml": "എനിക്കായ് ചിന്തി നിൻ രക്തം",
+      "title_en": "Enikkai chindhi nin raktham"
+    },
+    {
+      "number": "237",
+      "title_ml": "യേശു എൻ അടിസ്ഥാനം",
+      "title_en": "Yeshu en adisthaanam"
+    },
+    {
+      "number": "238",
+      "title_ml": "എൻ യേശു എൻ സംഗീതം",
+      "title_en": "En Yeshu en sangeetham"
+    },
+    {
+      "number": "239",
+      "title_ml": "ക്രിസ്തുവിന്റെ ദാനം",
+      "title_en": "Kristhuvinte daanam"
+    },
+    {
+      "number": "240",
+      "title_ml": "ഒന്നും ഭയപ്പെടേണ്ട!",
+      "title_en": "Onnum bhayappedenda"
+    },
+    {
+      "number": "241",
+      "title_ml": "നിന്നോടെൻ ദൈവമേ!",
+      "title_en": "Ninnoden daivame"
+    },
+    {
+      "number": "242",
+      "title_ml": "സ്നേഹത്തിൻ ഇടയനാം യേശുവേ",
+      "title_en": "Snehathin idayanam Yeshuve"
+    },
+    {
+      "number": "243",
+      "title_ml": "യേശു മതി എനിക്കേഷു മതി",
+      "title_en": "Yeshu madhi enikkeshu madhi"
+    },
+    {
+      "number": "244",
+      "title_ml": "പാപക്കടം തീർക്കുവാൻ",
+      "title_en": "Paapakkadam teerkkuvan"
+    },
+    {
+      "number": "245",
+      "title_ml": "എന്റെ സമ്പത്തെന്നു ചൊല്ലുവാൻ",
+      "title_en": "Ente sampathennu cholluvan"
+    },
+    {
+      "number": "246",
+      "title_ml": "എൻ രക്ഷകനാം യേശുവേ",
+      "title_en": "En rakshakanaam Yeshuve"
+    },
+    {
+      "number": "247",
+      "title_ml": "നീയല്ലോ ഞങ്ങൾക്കുള്ള",
+      "title_en": "Neeyallo njangalkkulla"
+    },
+    {
+      "number": "248",
+      "title_ml": "എന്റെ ദൈവം മഹത്വത്തിൽ",
+      "title_en": "Ente daivam mahatvathil"
+    },
+    {
+      "number": "249",
+      "title_ml": "എന്റെ ദൈവം സ്വർഗ്ഗ സിംഹാസനം",
+      "title_en": "Ente daivam swarga simhasanam"
+    },
+    {
+      "number": "250",
+      "title_ml": "എൻ രക്ഷക! എൻ ദൈവമേ",
+      "title_en": "En rakshaka en daivame"
+    },
+    {
+      "number": "251",
+      "title_ml": "യേശു എൻ സ്വന്തം ഹല്ലേലുയ്യാ",
+      "title_en": "Yeshu en swantam hallelujah"
+    },
+    {
+      "number": "252",
+      "title_ml": "ശ്രീ യേശു നായക നിൻ",
+      "title_en": "Sree yeshu nayaka nin"
+    },
+    {
+      "number": "253",
+      "title_ml": "യേശു എൻ ആത്മ സഖേ",
+      "title_en": "Yeshu en aatma saghe"
+    },
+    {
+      "number": "254",
+      "title_ml": "കുഞ്ഞാട്ടിൻ തിരു രക്തത്താൽ",
+      "title_en": "Kunjattin thiru rakthathal"
+    },
+    {
+      "number": "255",
+      "title_ml": "ദൈവത്തിൻരാജ്യം സ്നേഹത്തിൻരാജ്യം",
+      "title_en": "Daivathin rajyam snehathin"
+    },
+    {
+      "number": "256",
+      "title_ml": "യേശു ആരിലുമുന്നതനാം",
+      "title_en": "Yeshu aarilumunnathanam"
+    },
+    {
+      "number": "257",
+      "title_ml": "യേശുദേവ എൻ യേശുദേവ",
+      "title_en": "Yeshu deva en Yeshu deva"
+    },
+    {
+      "number": "258",
+      "title_ml": "ദൈവമേ എത്ര അഗാധമഹോ",
+      "title_en": "Daivame etra agaadhamo"
+    },
+    {
+      "number": "259",
+      "title_ml": "പാടി പുകഴ്ത്തീടാം ദേവ",
+      "title_en": "Paadi pukazhtteedam deva"
+    },
+    {
+      "number": "260",
+      "title_ml": "സുഖ കാലത്തിലും ദുഃഖ",
+      "title_en": "Sukha kaalathilum dukha"
+    },
+    {
+      "number": "261",
+      "title_ml": "എന്നും നല്ലവൻ യേശു എന്നും",
+      "title_en": "Ennum nallavan Yeshu ennum"
+    },
+    {
+      "number": "262",
+      "title_ml": "തുണ എനിക്കെശുവാം",
+      "title_en": "Thuna enikkeshuvam"
+    },
+    {
+      "number": "263",
+      "title_ml": "കൃപയേറും കർത്താവിലെൻ",
+      "title_en": "Krupayerum karthavilen"
+    },
+    {
+      "number": "264",
+      "title_ml": "യേശുവേ എൻ പ്രാണ നായക",
+      "title_en": "Yeshuve en praana naayaka"
+    },
+    {
+      "number": "265",
+      "title_ml": "ജീവന്റെ ഉറവിടം ക്രിസ്തുവത്രെ",
+      "title_en": "Jeevante uravidam kristhu atre"
+    },
+    {
+      "number": "266",
+      "title_ml": "എൻ ആത്മാവേ നീ ദുഖത്താൽ",
+      "title_en": "En aathmave ne dukhathal"
+    },
+    {
+      "number": "267",
+      "title_ml": "എൻ നാഥനെ ഏറ്റുചൊൽവാൻ",
+      "title_en": "En naadhane eettu cholvan"
+    },
+    {
+      "number": "268",
+      "title_ml": "ഞാൻ എന്റെ കണ്ണുകൾ ഉയർത്തിടുന്നു",
+      "title_en": "Njan ente kannukal uyarthidunnu"
+    },
+    {
+      "number": "269",
+      "title_ml": "യേശു എൻ അഭയകേന്ദ്രം",
+      "title_en": "Yeshu en abhaya kendram"
+    },
+    {
+      "number": "270",
+      "title_ml": "എനിക്കേതു നേരത്തിലും",
+      "title_en": "Enikkethu nerathilum"
+    },
+    {
+      "number": "271",
+      "title_ml": "മഹിമയെഴും പരമേശാ",
+      "title_en": "Mahima ezhum paramesha"
+    },
+    {
+      "number": "272",
+      "title_ml": "ആശ്രിത വത്സലനേശു",
+      "title_en": "Aasritha valsalan Yeshu"
+    },
+    {
+      "number": "273",
+      "title_ml": "എല്ലാം യേശുവേ എനിക്കെല്ലാം യേശുവേ",
+      "title_en": "Ellam Yeshuve enikkellam Yeshuve"
+    },
+    {
+      "number": "274",
+      "title_ml": "ആത്മാവാം വഴികാട്ടി",
+      "title_en": "Aatmavam vazhi kaatti"
+    },
+    {
+      "number": "275",
+      "title_ml": "അനുഗ്രഹത്തിന്നധിപതിയേ",
+      "title_en": "Anugrahathin adhipadhiye"
+    },
+    {
+      "number": "276",
+      "title_ml": "കാണുന്നു ഞാൻ യാഹിൽ",
+      "title_en": "Kaanunnu njan yahil"
+    },
+    {
+      "number": "277",
+      "title_ml": "ഒന്നേ ഉള്ളെണിക്കാനന്ദമുലകിൽ",
+      "title_en": "Onne ullenikkananthamulakil"
+    },
+    {
+      "number": "278",
+      "title_ml": "കുരിശിൻ നിഴലിൽ തല",
+      "title_en": "Kurishin nizhalil tala"
+    },
+    {
+      "number": "279",
+      "title_ml": "എനിക്കായൊരുത്തമ സമ്പത്ത്",
+      "title_en": "Enikkayoru thama sambathu"
+    },
+    {
+      "number": "280",
+      "title_ml": "യഹോവദൈവമാം വിശുദ്ധ",
+      "title_en": "Yahova daivamam vishudha"
+    },
+    {
+      "number": "281",
+      "title_ml": "കർത്തൻ എന്നെ നടത്തുന്നു",
+      "title_en": "Karthan enne nadathunnu"
+    },
+    {
+      "number": "282",
+      "title_ml": "യേശു കയ്യിൽ മാ സ്വൈരം",
+      "title_en": "Yeshu kayyil ma swairyam"
+    },
+    {
+      "number": "283",
+      "title_ml": "അറിയാത്ത സമാധാനം",
+      "title_en": "Ariyatha samadanam"
+    },
+    {
+      "number": "284",
+      "title_ml": "ദുഖത്തിന്റെ പാന പത്രം",
+      "title_en": "Dukhathinte paana patram"
+    },
+    {
+      "number": "285",
+      "title_ml": "വിശുദ്ധർ കൂട്ടം രക്ഷകനു",
+      "title_en": "Vishudhar koottam rakshakanu"
+    },
+    {
+      "number": "286",
+      "title_ml": "ഹാ എത്ര ഭാഗ്യമുണ്ടെനിക്കു",
+      "title_en": "Ha etra bhaagyamundenikku"
+    },
+    {
+      "number": "287",
+      "title_ml": "എപ്പോഴും ഞാൻ സന്തോഷിക്കും",
+      "title_en": "Eppozhum njan santhoshikkum"
+    },
+    {
+      "number": "288",
+      "title_ml": "ആനന്ദമുണ്ടെനിക്ക്ആനന്ദമുണ്ടെനി",
+      "title_en": "Aanandham undenikk aanandham"
+    },
+    {
+      "number": "289",
+      "title_ml": "ശോഭിത പട്ടണം പാപ",
+      "title_en": "Shobitha pattanam paapa"
+    },
+    {
+      "number": "290",
+      "title_ml": "കർതൃ കാഹളം യുഗാന്ത്യ",
+      "title_en": "Kartru kaahalam yugaandya"
+    },
+    {
+      "number": "291",
+      "title_ml": "ഭാഗ്യ രാജ്യമൊന്നുണ്ടതിൽ",
+      "title_en": "Baagya raajyamonnundathil"
+    },
+    {
+      "number": "292",
+      "title_ml": "നിത്യ വീടൊന്നുണ്ടതു",
+      "title_en": "Nitya veedonnundathil"
+    },
+    {
+      "number": "293",
+      "title_ml": "യരുശലേമെൻ ഇമ്പവീടേ",
+      "title_en": "Yerushalemen Impa veede"
+    },
+    {
+      "number": "294",
+      "title_ml": "രാജൻ മുൻപിൽ നിന്നു നാം",
+      "title_en": "Raajan munpil ninnu naam"
+    },
+    {
+      "number": "295",
+      "title_ml": "എത്ര എത്ര ശ്രഷ്‌ഠം",
+      "title_en": "Etra etra sreshtam"
+    },
+    {
+      "number": "296",
+      "title_ml": "ശോഭയേറും നാടൊന്നുണ്ടതു",
+      "title_en": "Shobayerum naadonnundathu"
+    },
+    {
+      "number": "297",
+      "title_ml": "ആരിവർ ആരിവർ",
+      "title_en": "Aarivar aarivar"
+    },
+    {
+      "number": "298",
+      "title_ml": "സ്വർഗ്ഗ ഭാഗ്യം എത്ര",
+      "title_en": "Swarga bhaagyam etra"
+    },
+    {
+      "number": "299",
+      "title_ml": "മോദം അതി മോദം",
+      "title_en": "Modham athi modham"
+    },
+    {
+      "number": "300",
+      "title_ml": "വിതച്ചീടുക നാം",
+      "title_en": "Vithacheeduka naam"
+    },
+    {
+      "number": "301",
+      "title_ml": "വേലയ്ക്കു വേലയ്ക്കു",
+      "title_en": "Velakku velakku"
+    },
+    {
+      "number": "302",
+      "title_ml": "കയ്യായി ഞാൻ ചെല്ലുമോ",
+      "title_en": "Verum kayyai njan chellumo"
+    },
+    {
+      "number": "303",
+      "title_ml": "സുവിശേഷം അതു ജയിക്കുമേ",
+      "title_en": "Suvishesham athu jayikkume"
+    },
+    {
+      "number": "304",
+      "title_ml": "എങ്ങും പുകഴ്ത്തുവിൻ സുവിശേഷം",
+      "title_en": "Engum pukazhthuvin suvishesham"
+    },
+    {
+      "number": "305",
+      "title_ml": "സുവിശേഷഘോഷണമേ",
+      "title_en": "Suvishesha ghoshaname"
+    },
+    {
+      "number": "306",
+      "title_ml": "പദം പദം ഉറച്ചു നാം",
+      "title_en": "Padam padam urachu naam"
+    },
+    {
+      "number": "307",
+      "title_ml": "കൊയ്തുണ്ടധികം വേലയുണ്ടേറെ",
+      "title_en": "Koithundadikam velayundere"
+    },
+    {
+      "number": "308",
+      "title_ml": "യേശുപരൻ വാണീടും",
+      "title_en": "Yeshuparan vaanidum"
+    },
+    {
+      "number": "309",
+      "title_ml": "യേശു നാഥൻ ജയിക്കുന്നു",
+      "title_en": "Yeshu nadhan jayikkunnu"
+    },
+    {
+      "number": "310",
+      "title_ml": "ജയിക്കുമെ സുവിശേഷം",
+      "title_en": "Jayikkume suvishesham"
+    },
+    {
+      "number": "311",
+      "title_ml": "ആദിത്യൻ ഉദിച്ചീടുന്ന",
+      "title_en": "Aadhityan udicheedunna"
+    },
+    {
+      "number": "312",
+      "title_ml": "സത്യത്തിന്റെ പാതയിൽ",
+      "title_en": "Satyathinte paathayil"
+    },
+    {
+      "number": "313",
+      "title_ml": "മനസോടെ ശാപമരത്തിൽ",
+      "title_en": "Manasode shaapa marathil"
+    },
+    {
+      "number": "314",
+      "title_ml": "പൊന്നേശു നരർ തിരുബലി",
+      "title_en": "Ponneshu narar thiru bali"
+    },
+    {
+      "number": "315",
+      "title_ml": "സ്നേഹ വിരുന്നനുഭവിപ്പാൻ",
+      "title_en": "Sneha virunnanubhavippan"
+    },
+    {
+      "number": "316",
+      "title_ml": "മന്നായെ ഭുജിക്ക",
+      "title_en": "Mannaye bhujikka"
+    },
+    {
+      "number": "317",
+      "title_ml": "പരനേശുവെ കരുണാനിധേ",
+      "title_en": "Paraneshuve karuna nidhe"
+    },
+    {
+      "number": "318",
+      "title_ml": "കൃപയുള്ള ത്രിയേകനെ",
+      "title_en": "Krupayulla thriyekane"
+    },
+    {
+      "number": "319",
+      "title_ml": "ആദ്യ വിവാഹ നാളിൽ",
+      "title_en": "Aadya vivaha naalil"
+    },
+    {
+      "number": "320",
+      "title_ml": "യേശു നായക വന്നാലും",
+      "title_en": "Yeshu naayaka vannalum"
+    },
+    {
+      "number": "321",
+      "title_ml": "യഹോവയെ ഭയപ്പെട്ടു",
+      "title_en": "Yahovaye bhayappettu"
+    },
+    {
+      "number": "322",
+      "title_ml": "മനുവേൽ മന്നവനെ പരനേ",
+      "title_en": "Manuvel mannavane parane"
+    },
+    {
+      "number": "323",
+      "title_ml": "ആരു സഹായിക്കും",
+      "title_en": "Aaru sahayikkum"
+    },
+    {
+      "number": "324",
+      "title_ml": "ക്രിസ്തൻമേൽ ചാരി ഞാൻ",
+      "title_en": "Kristhanmel chaari njan"
+    },
+    {
+      "number": "325",
+      "title_ml": "സമയമാം രഥത്തിൽ ഞാൻ",
+      "title_en": "Samayamam radhathil njan"
+    },
+    {
+      "number": "326",
+      "title_ml": "പരലോകാധിപനെ പരനേ",
+      "title_en": "Paralokaadhipane parane"
+    },
+    {
+      "number": "327",
+      "title_ml": "കർത്താവേ വരേണമേ നിൻ",
+      "title_en": "Karthave varename nin"
+    },
+    {
+      "number": "328",
+      "title_ml": "കാണും വരെ ഇനി നാം തമ്മിൽ",
+      "title_en": "Kaanum vare ini naam tammil"
+    },
+    {
+      "number": "329",
+      "title_ml": "അനുഗ്രഹത്തോടെ ഇപ്പോൾ അയക്ക",
+      "title_en": "Anugrahathode ippol ayakka"
+    },
+    {
+      "number": "330",
+      "title_ml": "യഹോവ നിന്റെ പരിപാലകൻ",
+      "title_en": "Yahova ninte paripaalakan"
+    },
+    {
+      "number": "331",
+      "title_ml": "സ്വർഗ്ഗ രാജ പുത്രരേ",
+      "title_en": "Swarga raaja puthrare"
+    },
+    {
+      "number": "332",
+      "title_ml": "ക്രിസ്തുവിൻ സ്നേഹത്തിൽ",
+      "title_en": "Kristhuvin snehathil"
+    },
+    {
+      "number": "333",
+      "title_ml": "വരുവിൻ ചെറു പൈതങ്ങളെ",
+      "title_en": "Varuvin cheru paithangale"
+    },
+    {
+      "number": "334",
+      "title_ml": "യേശു പോലാവാനെനി",
+      "title_en": "Yeshu polaavaaneni"
+    },
+    {
+      "number": "335",
+      "title_ml": "ക്രിസ്തു മുൻപിൽ വന്നാൽ",
+      "title_en": "Kristhu munpil vannal"
+    },
+    {
+      "number": "336",
+      "title_ml": "ബാലരാകുന്ന ഞങ്ങളെ",
+      "title_en": "Baalarakunna njangale"
+    },
+    {
+      "number": "337",
+      "title_ml": "ശാന്തനാകും യേശുവേ",
+      "title_en": "Shaanthanaakum Yeshuve"
+    },
+    {
+      "number": "338",
+      "title_ml": "സൃഷ്ടാവിനെ ബാല്യ കാലത്തിൽ",
+      "title_en": "Srushtaavine baalya kaalathil"
+    },
+    {
+      "number": "339",
+      "title_ml": "തിരു ചെവി ചായ്ക്കേണമേ",
+      "title_en": "Thiru chevi chaaykkename"
+    },
+    {
+      "number": "340",
+      "title_ml": "പാടുവിൻ സകല ഭൂമിയെ",
+      "title_en": "Paaduvin sakale bhoomiye"
+    },
+    {
+      "number": "341",
+      "title_ml": "മനുജനിവൻ ഭാഗ്യവാൻ",
+      "title_en": "Manujanivan bhaagyavan"
+    },
+    {
+      "number": "342",
+      "title_ml": "ഈ പര ദേവാനഹോ നമുക്കു",
+      "title_en": "Ee para devanaho namukku"
+    },
+    {
+      "number": "343",
+      "title_ml": "യാഹേന്ന ദൈവം എൻ ഇടയനഹോ",
+      "title_en": "Yahenna daivam en idayanaho"
+    },
+    {
+      "number": "344",
+      "title_ml": "ജീവ നായക ജീവ നായക",
+      "title_en": "Jeeva naayaka jeeva naayaka"
+    },
+    {
+      "number": "345",
+      "title_ml": "പരമ താതന്റെ",
+      "title_en": "Parama thatante"
+    },
+    {
+      "number": "346",
+      "title_ml": "ഉണർന്നെഴുനേല്ക്കാ",
+      "title_en": "Unarnnezhunelkka"
+    },
+    {
+      "number": "347",
+      "title_ml": "സീയോനെ നീ",
+      "title_en": "Seeyone ne"
+    },
+    {
+      "number": "348",
+      "title_ml": "യേശു മഹേശാ ദീന ദയാലോ",
+      "title_en": "Yeshu mahesha dheena dheyalo"
+    },
+    {
+      "number": "349",
+      "title_ml": "കേൾക്ക എന്റെ ആത്മാവേ",
+      "title_en": "Kelkka en aathmave"
+    },
+    {
+      "number": "350",
+      "title_ml": "പോകല്ലേ കടന്നെന്നെ നീ",
+      "title_en": "Pokalle kadannenne ne"
+    },
+    {
+      "number": "351",
+      "title_ml": "ദൈവ കൃപ മനോഹരമേ",
+      "title_en": "Daiva kripa manoharame"
+    },
+    {
+      "number": "352",
+      "title_ml": "കൃപ കൃപ കൃപ തന്നെ",
+      "title_en": "Kripa Kripa kripa tanne"
+    },
+    {
+      "number": "353",
+      "title_ml": "ദൈവ കൃപയിൽ ഞാൻ",
+      "title_en": "Daiva kripayil njan"
+    },
+    {
+      "number": "354",
+      "title_ml": "പോന്നേശു തമ്പുരാൻ",
+      "title_en": "Ponneshu thampuran"
+    },
+    {
+      "number": "355",
+      "title_ml": "മഹാത്ഭുതമേ കാൽവരിയിൽ",
+      "title_en": "Mahaatbudhame kaalvariyil"
+    },
+    {
+      "number": "356",
+      "title_ml": "സ്നേഹമാം താതാ സ്വർഗീയ",
+      "title_en": "Snehamam thatha swargeeya"
+    },
+    {
+      "number": "357",
+      "title_ml": "മാ പാപി എന്നെ തേടി വന്നൊരു",
+      "title_en": "Ma paapi enne theedi vannoru"
+    },
+    {
+      "number": "358",
+      "title_ml": "തേടി വന്നു ദോഷിയാം",
+      "title_en": "Thedi vannu dhoshiyam"
+    },
+    {
+      "number": "359",
+      "title_ml": "മഹൽ സ്നേഹം മഹൽ സ്നേഹം",
+      "title_en": "Mahal sneham mahal sneham"
+    },
+    {
+      "number": "360",
+      "title_ml": "യേശുവിൻ സ്നേഹമോ",
+      "title_en": "Yeshuvin snehamo"
+    },
+    {
+      "number": "361",
+      "title_ml": "ഞാൻ പാപിയായിരുന്നു എന്നേശു",
+      "title_en": "Njan paapiyayirunnu enneshu"
+    },
+    {
+      "number": "362",
+      "title_ml": "കാണുക നീയീ കാരുണ്യവാനെ",
+      "title_en": "Kaanuka neeye karunyavane"
+    },
+    {
+      "number": "363",
+      "title_ml": "സ്തോത്രങ്ങൾ പാടി ഞാൻ",
+      "title_en": "Sthrotrangal paadi njan"
+    },
+    {
+      "number": "364",
+      "title_ml": "അതിശയമേ യേശുവിൻ സ്നേഹം",
+      "title_en": "Athishayame Yeshuvin sneham"
+    },
+    {
+      "number": "365",
+      "title_ml": "ദൈവ സ്നേഹം പോലെ വേറെ",
+      "title_en": "Daiva sneham pole vere"
+    },
+    {
+      "number": "366",
+      "title_ml": "എന്തതിശയമേ ദൈവത്തിൻ",
+      "title_en": "Enthathishayame daivathin"
+    },
+    {
+      "number": "367",
+      "title_ml": "യേശുവിൻ ദിവ്യ സ്നേഹം",
+      "title_en": "Yeshuvin divya sneham"
+    },
+    {
+      "number": "368",
+      "title_ml": "ഇന്നേരം പ്രിയ ദൈവമേ",
+      "title_en": "Inneram priya daivame"
+    },
+    {
+      "number": "369",
+      "title_ml": "പ്രാർത്ഥന കേൾക്കേണമെ",
+      "title_en": "Praarthana kelkkename"
+    },
+    {
+      "number": "370",
+      "title_ml": "എന്റെ പ്രാണസഖി യേശുവേ",
+      "title_en": "Ente praana saghi Yeshuve"
+    },
+    {
+      "number": "371",
+      "title_ml": "ഉയർത്തീടും ഞാൻ എന്റെ കൺകൾ",
+      "title_en": "Uyartheedum njan ente kankal"
+    },
+    {
+      "number": "372",
+      "title_ml": "സർവ്വ ശക്തൻ യഹോവാ താൻ",
+      "title_en": "Sarva shakthan yahova thaan"
+    },
+    {
+      "number": "373",
+      "title_ml": "പരനേ നിൻ തിരു മുമ്പിൽ",
+      "title_en": "Parane nin thiru munpil"
+    },
+    {
+      "number": "374",
+      "title_ml": "നിന്നോടു പ്രാർത്ഥിപ്പാൻ",
+      "title_en": "Ninnodu praarthippan"
+    },
+    {
+      "number": "375",
+      "title_ml": "പ്രാര്ഥനക്കുത്തരം നല്കുന്നോനെ",
+      "title_en": "Praarthanakkutharam nalkunnone"
+    },
+    {
+      "number": "376",
+      "title_ml": "ദൈവമേ ത്രിയേകണേ",
+      "title_en": "Daivame thriyekane"
+    },
+    {
+      "number": "377",
+      "title_ml": "പരമ ഗുരുവരണം യേശുവേ നീ",
+      "title_en": "Parama guruvaranam yeshuve ne"
+    },
+    {
+      "number": "378",
+      "title_ml": "പ്രാർത്ഥനയിൻ നൽ നേരമേ",
+      "title_en": "Praarthanayin nal nerame"
+    },
+    {
+      "number": "379",
+      "title_ml": "ജയം ജയം കൊള്ളും",
+      "title_en": "Jayam jayam kollum"
+    },
+    {
+      "number": "380",
+      "title_ml": "എൻ ക്രിസ്തൻ യോദ്ധാവാകുവാൻ",
+      "title_en": "En krishthan yodhavakuvan"
+    },
+    {
+      "number": "381",
+      "title_ml": "യുദ്ധത്തിനു യുദ്ധത്തിനു",
+      "title_en": "Yudhathinu yudhathinu"
+    },
+    {
+      "number": "382",
+      "title_ml": "എന്റെ തോഴരേ കൊടി കാണ്",
+      "title_en": "Ente thozhare kodi kaan"
+    },
+    {
+      "number": "383",
+      "title_ml": "നിന്നീടിൻ യേശുവിന്നായ്",
+      "title_en": "Ninneedin yeshuvinai"
+    },
+    {
+      "number": "384",
+      "title_ml": "ക്രിസ്ത്യ സൈന്യമേ വാ",
+      "title_en": "Kristhya sainyame va"
+    },
+    {
+      "number": "385",
+      "title_ml": "വിശ്വാസികളെ വിശ്വാസികളെ",
+      "title_en": "Vishwasikale vishwasikale"
+    },
+    {
+      "number": "386",
+      "title_ml": "രാത്രിയിതാ വരുന്നു",
+      "title_en": "Rathriyitha varunnu"
+    },
+    {
+      "number": "387",
+      "title_ml": "ഞാനും എന്റെ ഭാവനവുമോ",
+      "title_en": "Njaanum ente bhavanavumo"
+    },
+    {
+      "number": "388",
+      "title_ml": "കാന്താ താമസമെന്തഹോ",
+      "title_en": "Kaantha thaamasamenthaho"
+    },
+    {
+      "number": "389",
+      "title_ml": "എന്നു നീ വന്നിടും",
+      "title_en": "Ennu ne vannidum"
+    },
+    {
+      "number": "390",
+      "title_ml": "യേശുവരും വേഗത്തിൽ",
+      "title_en": "Yeshu varum vegathil"
+    },
+    {
+      "number": "391",
+      "title_ml": "യേശു രാജന്റെഴുന്നള്ളത്തിൻ",
+      "title_en": "Yeshu rajante ezhunallathin"
+    },
+    {
+      "number": "392",
+      "title_ml": "യേശുവോടു ചേർന്നിരിപ്പതു",
+      "title_en": "Yeshuvodu chernnirippathu"
+    },
+    {
+      "number": "393",
+      "title_ml": "കാൽവരിയിൽ എൻ പേർക്കഹോ",
+      "title_en": "Kaalvariyil en peerkkaho"
+    },
+    {
+      "number": "394",
+      "title_ml": "മാനവരെ രക്ഷിച്ചീടുവാനായ്",
+      "title_en": "Maanavare rakshichiduvanai"
+    },
+    {
+      "number": "395",
+      "title_ml": "ആനന്ദമാനന്ദമാനന്ദമേ",
+      "title_en": "Aananthamaananthame"
+    },
+    {
+      "number": "396",
+      "title_ml": "ശുദ്ധർ സ്തുതിക്കും വീടെ",
+      "title_en": "Shudhar sthuthikkum veede"
+    },
+    {
+      "number": "397",
+      "title_ml": "ലോകെ ഞാൻ എൻ ഓട്ടം തികച്ചു",
+      "title_en": "Lokhe njan en ottam thikachu"
+    },
+    {
+      "number": "398",
+      "title_ml": "കാത്തു കാത്തെകനായ്",
+      "title_en": "Kaathu kaathekanai"
+    },
+    {
+      "number": "399",
+      "title_ml": "ഭാഗ്യ നാട്ടിൽ പോകും ഞാൻ",
+      "title_en": "Bhaagya naattil pokum njan"
+    },
+    {
+      "number": "400",
+      "title_ml": "നാമെല്ലാരും കൂടുവോം",
+      "title_en": "Naamellarum kooduvom"
+    },
+    {
+      "number": "401",
+      "title_ml": "നിൻ സന്നിധിയിൽ ദൈവമേ",
+      "title_en": "Nin sannidhiyil daivame"
+    },
+    {
+      "number": "402",
+      "title_ml": "യേശുവേ നിന്റെ രൂപമീയെന്റെ",
+      "title_en": "Yeshuve ninte roopameeyente"
+    },
+    {
+      "number": "403",
+      "title_ml": "നിൻ സന്നിധി മതി ഹാ",
+      "title_en": "Nin sannidhi madhi ha"
+    },
+    {
+      "number": "404",
+      "title_ml": "എൻ പ്രിയനേശുവിൽ ഞാൻ",
+      "title_en": "En priyaneshuvil njan"
+    },
+    {
+      "number": "405",
+      "title_ml": "ഞാൻ കർത്താവിനായി പാടും",
+      "title_en": "Njan karthavinai paadum"
+    },
+    {
+      "number": "406",
+      "title_ml": "ദൈവത്തിൻ പൈതലേ നിന്റെ",
+      "title_en": "Daivathin paithale ninte"
+    },
+    {
+      "number": "407",
+      "title_ml": "സഭാക്കേകാടിസ്ഥാനം",
+      "title_en": "Sabhakkekadisthaanam"
+    },
+    {
+      "number": "408",
+      "title_ml": "യേശുവിൻ തിരുസഭയെ",
+      "title_en": "Yeshuvin thiru sabhaye"
+    },
+    {
+      "number": "409",
+      "title_ml": "എൻ ആശ യേശുവിൽ",
+      "title_en": "En aasha yeshuvil"
+    },
+    {
+      "number": "410",
+      "title_ml": "തൻ നിത്യസ്നേഹത്താൽ",
+      "title_en": "Than nitya snehathal"
+    },
+    {
+      "number": "411",
+      "title_ml": "എന്റെ ജീവനാമേശുവെ",
+      "title_en": "Ente jeevanameshuve"
+    },
+    {
+      "number": "412",
+      "title_ml": "ആശ്വാസമേ എനിക്കേറെ",
+      "title_en": "Aashwasame enikkere"
+    },
+    {
+      "number": "413",
+      "title_ml": "ദൈവത്തിൽ ഞാൻ കണ്ടൊരു",
+      "title_en": "Daivathil njan kandoru"
+    },
+    {
+      "number": "414",
+      "title_ml": "പരപരമേശ വരം",
+      "title_en": "Paraparamesha varam"
+    },
+    {
+      "number": "415",
+      "title_ml": "യേശുവേ തിരുനാമമെത്ര",
+      "title_en": "Yeshuve thiru naamametra"
+    },
+    {
+      "number": "416",
+      "title_ml": "എന്നെ രക്ഷിപ്പാൻ ഉന്നതം",
+      "title_en": "Enne rakshippan unnatham"
+    },
+    {
+      "number": "417",
+      "title_ml": "ദൈവമേ ഈ ആണ്ടിനെ",
+      "title_en": "Daivame ee aandine"
+    },
+    {
+      "number": "418",
+      "title_ml": "ഇന്നേരം യേശു ദേവനെ",
+      "title_en": "Enneram yeshu devane"
+    },
+    {
+      "number": "419",
+      "title_ml": "ഇന്നയോളം തുണച്ചോനെ",
+      "title_en": "Innayolam thunachone"
+    },
+    {
+      "number": "420",
+      "title_ml": "പുതു വത്സരത്തിൻ പിറവിയിൽ",
+      "title_en": "Puthu valsarathin piraviyil"
+    },
+    {
+      "number": "421",
+      "title_ml": "ഇന്നു നമുക്കേക ശിശു",
+      "title_en": "Innu namukkeka shishu"
+    },
+    {
+      "number": "422",
+      "title_ml": "മുന്നം പരസുത",
+      "title_en": "Munnam para sutha"
+    },
+    {
+      "number": "423",
+      "title_ml": "മാട്ടിൻ തൊഴുത്തിൽ",
+      "title_en": "Maattin thozhuthil"
+    },
+    {
+      "number": "424",
+      "title_ml": "കർത്തനിൽ ആർത്തു സന്തോഷിക്ക",
+      "title_en": "Karthanil aarthu santhoshikka"
+    },
+    {
+      "number": "425",
+      "title_ml": "ക്രിസ്തുയേശുവിൻ സ്വാതന്ത്ര്യം",
+      "title_en": "Kristheshuvin swathanthryam"
+    },
+    {
+      "number": "426",
+      "title_ml": "ക്രിസ്തുയേശു ശിഷ്യരുടെ",
+      "title_en": "Krishtheshu shishyarude"
+    },
+    {
+      "number": "427",
+      "title_ml": "നിത്യനായ യഹോവയെ",
+      "title_en": "Nityanaaya yahovaye"
+    },
+    {
+      "number": "428",
+      "title_ml": "രക്ഷകന്റെ ദിവ്യ സ്നേഹത്താൽ",
+      "title_en": "Rakshakante divya snehathal"
+    },
+    {
+      "number": "429",
+      "title_ml": "വരിക പരാപരനെ",
+      "title_en": "Varika paraa parane"
+    },
+    {
+      "number": "430",
+      "title_ml": "അളവില്ലാ ദാനങ്ങൾ നൽകുന്നോനെ",
+      "title_en": "Alavilla daanangal nalkunnone"
+    },
+    {
+      "number": "431",
+      "title_ml": "എൻ മനമേ ദിനം വാഴ്ത്തുക",
+      "title_en": "En maname dinam vaazhthuka"
+    },
+    {
+      "number": "432",
+      "title_ml": "എൻ കർത്താവെ നിൻ കരങ്ങൾ",
+      "title_en": "En karthave nin karangal"
+    },
+    {
+      "number": "433",
+      "title_ml": "സർവത്തിൻ രാജനാം",
+      "title_en": "Sarvathin raajanam"
+    },
+    {
+      "number": "434",
+      "title_ml": "നന്ദിയാലെന്നുള്ളം തിങ്ങുകയാൽ",
+      "title_en": "Nanniyalennullam thingukayal"
+    },
+    {
+      "number": "435",
+      "title_ml": "നന്ദിയോടെ ഞാൻ സ്തുതി",
+      "title_en": "Nanniyode njan sthuthi"
+    },
+    {
+      "number": "436",
+      "title_ml": "നിൻ ദാനം ഞാൻ അനുഭവിച്ചു",
+      "title_en": "Nin daanam njan anubhavichu"
+    },
+    {
+      "number": "437",
+      "title_ml": "ഉയരുന്നെന്നുള്ളിൽ സ്തോത്രത്തിൻ",
+      "title_en": "Uyarunnennullil sthotrathin"
+    },
+    {
+      "number": "438",
+      "title_ml": "ഓടിക്കൂടിൻ യേശുവോടു",
+      "title_en": "Oodikkoodin yeshuvodu"
+    },
+    {
+      "number": "439",
+      "title_ml": "ദൈവ കുഞ്ഞാടിതാ",
+      "title_en": "Daiva kunjaaditha"
+    },
+    {
+      "number": "440",
+      "title_ml": "നമ്മുടെ കർത്താവാം യേശു",
+      "title_en": "Nammude karthavam yeshu"
+    },
+    {
+      "number": "441",
+      "title_ml": "കാൽവറി ക്രൂശിൽ താതാ",
+      "title_en": "Kaalvari krooshil thatha"
+    },
+    {
+      "number": "442",
+      "title_ml": "ക്രൂശിതനാം ക്രിസ്തുവേ",
+      "title_en": "Krooshithanam Kristhuve"
+    },
+    {
+      "number": "443",
+      "title_ml": "ഹല്ലേലൂയ ഉയിർത്തേശു",
+      "title_en": "Hallelujah uyirtheshu"
+    },
+    {
+      "number": "444",
+      "title_ml": "അദ്ധ്വാനിക്കുന്ന ഭാരവാഹികളെ",
+      "title_en": "Advaanikkunna bhaaravahikale"
+    },
+    {
+      "number": "445",
+      "title_ml": "ഇന്നു നീ ഒരിക്കൽ കൂടി",
+      "title_en": "Innu ne orikkal koodi"
+    },
+    {
+      "number": "446",
+      "title_ml": "മാറിടാത്ത യേശുനാഥൻ",
+      "title_en": "Maaridaatha yeshu naadhan"
+    },
+    {
+      "number": "447",
+      "title_ml": "ശുദ്ധാത്മാവേ വന്നെന്നുള്ളിൽ",
+      "title_en": "Shudhatmaave vannennullil"
+    },
+    {
+      "number": "448",
+      "title_ml": "ദൈവത്തിന്റെ സുവിശേഷം",
+      "title_en": "Daivathinte suvishesham"
+    },
+    {
+      "number": "449",
+      "title_ml": "ദൈവത്തിൻ പുത്രനാം",
+      "title_en": "Daivathin putranam"
+    },
+    {
+      "number": "450",
+      "title_ml": "മാനസമോദക മാധുര്യ",
+      "title_en": "Maanasa modhaka maadurya"
+    },
+    {
+      "number": "451",
+      "title_ml": "ദൈവമേ നിൻ ദയയാൽ",
+      "title_en": "Daivame nin dhayayaal"
+    },
+    {
+      "number": "452",
+      "title_ml": "യേശുവേ രക്ഷാദായകാ",
+      "title_en": "Yeshuve raksha daayaka"
+    },
+    {
+      "number": "453",
+      "title_ml": "തിരുകരത്താൽ വഹിച്ചു എന്നെ",
+      "title_en": "Thirukarathal vahichu enne"
+    },
+    {
+      "number": "454",
+      "title_ml": "അർപ്പിക്കുന്നേ എൻ രക്ഷ",
+      "title_en": "Arppikkunne en raksha"
+    },
+    {
+      "number": "455",
+      "title_ml": "എനിക്കല്ല ഞാൻ ക്രിസ്തുവിനത്രെ",
+      "title_en": "Enikkalla njan kristhuvinathre"
+    },
+    {
+      "number": "456",
+      "title_ml": "പാപികളെ രക്ഷിച്ചീടുവാൻ",
+      "title_en": "Paapikale rakshicheeduvaan"
+    },
+    {
+      "number": "457",
+      "title_ml": "നദീതുല്യം ശാന്തി",
+      "title_en": "Nadhi tulyam shanthi"
+    },
+    {
+      "number": "458",
+      "title_ml": "പേടി വേണ്ട ലേശം",
+      "title_en": "Pedi venda lesham"
+    },
+    {
+      "number": "459",
+      "title_ml": "ഭൂലോകമം വനാന്തരത്തിൽ",
+      "title_en": "Bhoolokhamam vanaandharathil"
+    },
+    {
+      "number": "460",
+      "title_ml": "പാപിക്കായുള്ളോരുറവ",
+      "title_en": "Paapikkayullorurava"
+    },
+    {
+      "number": "461",
+      "title_ml": "യേശു നാഥ പൂർണ്ണ സുഖം",
+      "title_en": "Yeshu naadha poorna sugham"
+    },
+    {
+      "number": "462",
+      "title_ml": "എൻ ഇടയൻ സ്നേഹ രാജൻ",
+      "title_en": "En idayan sneha raajan"
+    },
+    {
+      "number": "463",
+      "title_ml": "കർത്തൻ തന്ന നൽ",
+      "title_en": "Karthan tanna nal"
+    },
+    {
+      "number": "464",
+      "title_ml": "നല്ലിടയനാം യേശു",
+      "title_en": "Nallidayanam yeshu"
+    },
+    {
+      "number": "465",
+      "title_ml": "യാഹ് നല്ല ഇടയൻ",
+      "title_en": "Yaahu nalla idayan"
+    },
+    {
+      "number": "466",
+      "title_ml": "ആശ്വാസദായകനായ്",
+      "title_en": "Aashwasa daayakanai"
+    },
+    {
+      "number": "467",
+      "title_ml": "നന്മയല്ലാതൊന്നും",
+      "title_en": "Nanmayallathonnum"
+    },
+    {
+      "number": "468",
+      "title_ml": "മാൻ നീർത്തോടിനായി",
+      "title_en": "Maan neerthodinayi"
+    },
+    {
+      "number": "469",
+      "title_ml": "എന്നെനിക്കെൻ ദുഃഖം",
+      "title_en": "Ennenikken dukham"
+    },
+    {
+      "number": "470",
+      "title_ml": "എൻ പ്രിയ രക്ഷകനെ നിന്നെ",
+      "title_en": "En priya rakshakane ninne"
+    },
+    {
+      "number": "471",
+      "title_ml": "കർത്താവെ നിൻ രൂപമെനി",
+      "title_en": "Karthave nin roopameni"
+    },
+    {
+      "number": "472",
+      "title_ml": "ഇതുവരെ എന്നെ കരുതിയ",
+      "title_en": "Ithu vare enne karuthiya"
+    },
+    {
+      "number": "473",
+      "title_ml": "എന്നെ ശക്തനാക്കിടുന്നവൻ",
+      "title_en": "Enne shakthanakkidunnavan"
+    },
+    {
+      "number": "474",
+      "title_ml": "വിശ്വസ്തൻ എൻ ദൈവം",
+      "title_en": "Vishwasthan en daivam"
+    },
+    {
+      "number": "475",
+      "title_ml": "ദൈവം സകലവും",
+      "title_en": "Daivam sakalavum"
+    },
+    {
+      "number": "476",
+      "title_ml": "സേനയിന്നധിപൻ",
+      "title_en": "Senayinnadhipan"
+    },
+    {
+      "number": "477",
+      "title_ml": "വേണം നിന്നെ സദാ",
+      "title_en": "Venam ninne sadha"
+    },
+    {
+      "number": "478",
+      "title_ml": "ഈ ലോകത്തിൽ നാം",
+      "title_en": "Ee lokhathil naam"
+    },
+    {
+      "number": "479",
+      "title_ml": "ഓ ചിന്തിക്ക മേൽ",
+      "title_en": "O chindikka mel"
+    },
+    {
+      "number": "480",
+      "title_ml": "മുറ്റും വെടിപ്പാക്കാൻ",
+      "title_en": "Muttum vedippakkan"
+    },
+    {
+      "number": "481",
+      "title_ml": "കർത്താവരുളുന്നു തിരു",
+      "title_en": "Karthavarulunnu thiru"
+    },
+    {
+      "number": "482",
+      "title_ml": "നിൻ തിരു രക്തം ചിന്തി",
+      "title_en": "Nin thiru raktham chindi"
+    },
+    {
+      "number": "483",
+      "title_ml": "എൻ ദൈവമെ നിൻ മേശമേൽ",
+      "title_en": "En daivame nin meshamel"
+    },
+    {
+      "number": "484",
+      "title_ml": "ഹേ ദാഹിക്കുന്നോർ",
+      "title_en": "He daahikkunnor"
+    },
+    {
+      "number": "485",
+      "title_ml": "നുറുക്കപ്പെട്ട നാഥാ",
+      "title_en": "Nurukkappetta nadha"
+    },
+    {
+      "number": "486",
+      "title_ml": "ഞാൻ അയോഗ്യൻ ശുദ്ധ നാഥാ",
+      "title_en": "Njan ayogyan shudha nadha"
+    },
+    {
+      "number": "487",
+      "title_ml": "നല്ലവനേ നൽ വഴി കാട്ടി",
+      "title_en": "Nallavane nal vazhi kaatti"
+    },
+    {
+      "number": "488",
+      "title_ml": "യേശുവെ പോലുണ്ടോ ഇത്ര",
+      "title_en": "Yeshuve polundo itra"
+    },
+    {
+      "number": "489",
+      "title_ml": "ചേരുമെശുവിൽ ദിനം",
+      "title_en": "Cherumeshuvil dhinam"
+    },
+    {
+      "number": "490",
+      "title_ml": "ഇത്രത്തോളമെന്നെ കൊണ്ടു",
+      "title_en": "Itratholamenne kondu"
+    },
+    {
+      "number": "491",
+      "title_ml": "ഞാനും എനിക്കുള്ള",
+      "title_en": "Njaanum enikkulla"
+    },
+    {
+      "number": "492",
+      "title_ml": "കൃപ മനോഹരം",
+      "title_en": "Krupa manoharam"
+    },
+    {
+      "number": "493",
+      "title_ml": "ക്രിസ്തു നാമം ഏറ്റുകൊൾ നീ",
+      "title_en": "Kristhu naamam eettukol ne"
+    },
+    {
+      "number": "494",
+      "title_ml": "നിത്യമാം പ്രകാശമേ",
+      "title_en": "Nityamam prakaashame"
+    },
+    {
+      "number": "495",
+      "title_ml": "നിൻ കരുണകൾ കർത്താവേ",
+      "title_en": "Nin karunakal karthave"
+    },
+    {
+      "number": "496",
+      "title_ml": "എൻ പ്രിയന്റെ സ്വരം ഇമ്പം",
+      "title_en": "En priyante swaram impam"
+    },
+    {
+      "number": "497",
+      "title_ml": "ശമിപ്പാൻ നിലത്തിൽ ദാഹം",
+      "title_en": "Shamippan nilathil daaham"
+    },
+    {
+      "number": "498",
+      "title_ml": "എത്ര സൗഭാഗ്യമേ",
+      "title_en": "Etra saubhaagyame"
+    },
+    {
+      "number": "499",
+      "title_ml": "പാപ ശാപത്താൽ",
+      "title_en": "Paapa shaapathal"
+    },
+    {
+      "number": "500",
+      "title_ml": "എന്നേശു തൻ വിലതീരാ സ്നേഹം",
+      "title_en": "Enneshu than vilateera sneham"
+    },
+    {
+      "number": "501",
+      "title_ml": "പകരേണം നിൻ ആത്മാവെ",
+      "title_en": "Pakarenam nin aathmave"
+    },
+    {
+      "number": "502",
+      "title_ml": "എഴുന്നരുൾക യേശുവേ",
+      "title_en": "Ezhunnarulka yeshuve"
+    },
+    {
+      "number": "503",
+      "title_ml": "ഇന്നു തീരും വർഷത്തിൽ",
+      "title_en": "Innu teerum varshathil"
+    },
+    {
+      "number": "504",
+      "title_ml": "പലരാം നമ്മൾ ക്രിസ്തുവിൽ",
+      "title_en": "Palaraam nammal kristhuvil"
+    },
+    {
+      "number": "DOX1",
+      "title_ml": "എന്നേക്കും മഹത്വം",
+      "title_en": "Ennekkum Mahatvam"
+    },
+    {
+      "number": "DOX2",
+      "title_ml": "സർവ ബുദ്ധിയും കവിയും",
+      "title_en": "Sarva budhiyum kaviyum"
+    },
+    {
+      "number": "DOX3",
+      "title_ml": "സ്തുതി എന്നെന്നും പാടിടും",
+      "title_en": "Sthuthi ennennum paadidum"
+    },
+    {
+      "number": "DOX4",
+      "title_ml": "ദൈവമേ അനുഗ്രഹിക്ക",
+      "title_en": "Daivame anugrahikka"
+    },
+    {
+      "number": "DOX5",
+      "title_ml": "ദൈവമേ നിൻ സ്നേഹത്തോടെ",
+      "title_en": "Daivame nin snehathode"
+    },
+    {
+      "number": "DOX6",
+      "title_ml": "ദൈവമേ അയയ്ക്ക നിൻ അടിയാരെ",
+      "title_en": "Daivame ayakka nin adiyare"
+    },
+    {
+      "number": "DOX7",
+      "title_ml": "യേശുവിൻ കൃപാ കടാക്ഷം",
+      "title_en": "Yeshuvin krupa kadaaksham"
+    },
+    {
+      "number": "DOX8",
+      "title_ml": "സർവ്വശിഷത്തിൻ താതനെ",
+      "title_en": "Sarvashishathin taatane"
+    },
+    {
+      "number": "DOX9",
+      "title_ml": "പിതൃ പുത്രാത്മനാം",
+      "title_en": "Pithu putraatmanam"
+    },
+    {
+      "number": "DOX11",
+      "title_ml": "കാണും വരെ ഇനി നാം തമ്മിൽ",
+      "title_en": "Kaanum vare ini naam tammil"
+    },{
+      "number": "DOX 12",
+      "title_ml": "നിത്യനായ യഹോവയേ",
+      "title_en": "Nityanaaya yahovaye"
+    },{
+      "number": "DOX13",
+      "title_ml": "രക്ഷകന്റെ ദിവ്യ സ്നേഹത്താൽ",
+      "title_en": "Rakshakante divya snehathal"
+    },
+    {
+      "number": "DOXOLOGIES",
+      "title_ml": "ദൈവസ്‌തുതി",
+      "title_en": "DOXOLOGIES"
+    }
+  ]
+}
