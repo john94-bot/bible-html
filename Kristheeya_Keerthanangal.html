@@ -104,8 +104,9 @@
     .modal-content {
       background: #ffffff;
       border-radius: 14px;
-      max-width: 95%;
-      max-height: 90%;
+      width: 95%;
+      max-width: 600px;
+      max-height: 90vh;
       overflow: auto;
       padding: 15px;
       text-align: center;
@@ -119,8 +120,13 @@
     }
     .modal-content img {
       max-width: 100%;
+      max-height: 80vh;
+      height: auto;
+      object-fit: contain;
       border-radius: 8px;
       margin-top: 10px;
+      display: block;
+      transition: opacity 0.3s ease-in-out;
     }
     .close-btn {
       position: absolute;
@@ -156,7 +162,7 @@
     <div class="modal-content">
       <span class="close-btn">&times;</span>
       <h2 id="songTitle"></h2>
-      <img id="songImage" src="" alt="Song" />
+      <img id="songImage" src="" alt="Song" loading="lazy" />
     </div>
   </div>
 
@@ -204,8 +210,18 @@
 
     function showSong(song) {
       modalTitle.textContent = `${song.number}. ${song.title_en}`;
-      modalImg.src = `${IMG_BASE}${song.number}.png`;
+      modalImg.src = ""; // clear old image
       modal.style.display = "flex";
+
+      modalImg.alt = "Loading...";
+      modalImg.style.opacity = "0.5";
+
+      const newImg = `${IMG_BASE}${song.number}.png`;
+      modalImg.onload = () => {
+        modalImg.style.opacity = "1";
+        modalImg.alt = "Song";
+      };
+      modalImg.src = newImg;
     }
 
     closeBtn.onclick = () => {
